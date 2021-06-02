@@ -1,0 +1,70 @@
+.Inicio{
+background-color:navajowhite;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.Naturales{
+    background-color:cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+img{
+ width: 600px;
+
+}
+
+.Ética{
+    background-color:darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgciencias{
+    width: 700px;
+}
+.imginicio{
+    width: 500px;   
+}
+.imgeducacion{
+    width: 300px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+}
+.Ingles{
+    background-color:royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.VidaCristiana{
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.Sociales{
+  background-color: grey; 
+  font-family: Arial, Helvetica, sans-serif; 
+}
+.Español{
+    background-color:mistyrose;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgespañol{
+    width: 200px;
+   height: 200px;
+}
+.Educación{
+    background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgingles{
+    width: 300px;
+    height: 300px;
+}
+a:link, a:visited{
+    background-color: beige;
+    color: black;
+    padding: 14px 25px;
+    text-decoration: none;
+
+
+}
